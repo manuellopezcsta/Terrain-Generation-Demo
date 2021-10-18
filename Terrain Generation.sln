@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit", "ProceduralToolkit.csproj", "{4f8bde38-dec2-569f-d477-8e60c3347730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.Samples", "ProceduralToolkit.Samples.csproj", "{e94f198a-f636-0f27-33f8-f179bb2202df}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{cb656351-2587-cb02-35de-c8b146473d8e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.LibTessDotNet", "ProceduralToolkit.LibTessDotNet.csproj", "{68268cc7-1723-3441-a897-6279bd7ea67e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.FastNoiseLib", "ProceduralToolkit.FastNoiseLib.csproj", "{c5908db2-36d5-62a8-475d-5d3094f957ea}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.ClipperLib", "ProceduralToolkit.ClipperLib.csproj", "{1e0eb248-d646-e757-5f3d-e85324e27920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.Editor", "ProceduralToolkit.Editor.csproj", "{9dcf892d-ebd0-5351-a414-5ba0f720c782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.Samples.Buildings.Editor", "ProceduralToolkit.Samples.Buildings.Editor.csproj", "{f8131c2d-88dd-b0cb-2c54-29a562231ee0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.Samples.LowPolyTerrain.Editor", "ProceduralToolkit.Samples.LowPolyTerrain.Editor.csproj", "{655e6cf8-740c-e4f9-9661-33cdb784be08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralToolkit.Samples.Chairs.Editor", "ProceduralToolkit.Samples.Chairs.Editor.csproj", "{0529a545-43b2-cc33-eb44-93b0ebdcdf28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{e2dfa590-fd57-4c95-bb5f-f808f82adbd0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4f8bde38-dec2-569f-d477-8e60c3347730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4f8bde38-dec2-569f-d477-8e60c3347730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e94f198a-f636-0f27-33f8-f179bb2202df}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e94f198a-f636-0f27-33f8-f179bb2202df}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cb656351-2587-cb02-35de-c8b146473d8e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cb656351-2587-cb02-35de-c8b146473d8e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68268cc7-1723-3441-a897-6279bd7ea67e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68268cc7-1723-3441-a897-6279bd7ea67e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c5908db2-36d5-62a8-475d-5d3094f957ea}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c5908db2-36d5-62a8-475d-5d3094f957ea}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1e0eb248-d646-e757-5f3d-e85324e27920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1e0eb248-d646-e757-5f3d-e85324e27920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9dcf892d-ebd0-5351-a414-5ba0f720c782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9dcf892d-ebd0-5351-a414-5ba0f720c782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f8131c2d-88dd-b0cb-2c54-29a562231ee0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f8131c2d-88dd-b0cb-2c54-29a562231ee0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655e6cf8-740c-e4f9-9661-33cdb784be08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655e6cf8-740c-e4f9-9661-33cdb784be08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0529a545-43b2-cc33-eb44-93b0ebdcdf28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0529a545-43b2-cc33-eb44-93b0ebdcdf28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e2dfa590-fd57-4c95-bb5f-f808f82adbd0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e2dfa590-fd57-4c95-bb5f-f808f82adbd0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

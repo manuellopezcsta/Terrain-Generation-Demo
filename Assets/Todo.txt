@@ -1,0 +1,17 @@
+- Agregar fog al fondo para bloquear la terrain generation
+- Ver como hacer menos agua y mas grandes.
+// ARREGLAR Q CUANDO VAS A OPTIONS SE MUESTRE EL ULTIMO VALOR GUARDADO EN EL TEXTO.
+- Agregar funcion de randomness para q haya mas arboles q piedras DONE
+- Tratar de hacer un pj 3rd person o 1era. DONE
+
+// El script Player Zero tira slingshot a la camara. FIXED
+// y se ejecuta un monton x alguna razon con el otro script. FIXED
+
+terrain 20 5 20
+seed 1
+render radius 5
+min objects 15
+max objects 20
+P Arbol 65
+P Piedras 30
+P Tronquito 5
